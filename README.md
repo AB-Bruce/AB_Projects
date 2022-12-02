@@ -11,7 +11,7 @@ Team size       : 2 <br/>
 Duration    	: 3 days <br/>
 Description  	: Email the users when an EC2 Instance’s state changes by combining EC2, Lambda, SNS, Cloudwatch services with Python Boto3. <br/>
 
-Project Name    : Row count of Schemas(Snowflake)<br/>
+Project Name    : Row count of Schemas(Snowflake) :snowboarder:<br/>
 Role         	: Jnr. Cloud Architect<br/>
 Team size       : 1<br/>
 Duration    	: 2 days<br/>
