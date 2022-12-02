@@ -1,4 +1,4 @@
-<pre> ARUNBALAJI A S :man_technologist:                   			                            	  	:email: abbruce09@gmail.com </pre>
+<pre> ARUNBALAJI A S :man_technologist:                   			     	  	:email: abbruce09@gmail.com </pre>
 
 Project Details
 
